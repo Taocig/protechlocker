@@ -11,19 +11,20 @@
 
 <body>
     <header>
-        <?php include('include/navbar.inc.php'); ?>
+        <h1>Test</h1>
+        <?php //include('include/navbar.inc.php'); ?>
 
-        <?php include('include/header.inc.php'); ?>
+        <?php //include('include/header.inc.php'); ?>
     </header>
     <section>
-        <?php include('include/propos.inc.php'); ?>
+        <?php //include('include/propos.inc.php'); ?>
 
-        <?php include('include/bloc2.inc.php'); ?>
+        <?php //include('include/bloc2.inc.php'); ?>
 
-        <?php //include('include/option.inc.php'); 
-        ?>
+        <?php //include('include/option.inc.php'); ?>
+        
     </section>
-    <?php include('include/footer.inc.php'); ?>
+    <?php //include('include/footer.inc.php'); ?>
 </body>
 
 </html>
